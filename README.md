@@ -29,7 +29,7 @@ Step 8:
 Publish the website in the LocalHost.
 
 PROGRAM:
-OUTPUT:<img width="1503" height="846" alt="{8DA0FE3F-2B92-4A51-BFAE-EB86CB10CEE8}" src="https://github.com/user-attachments/assets/8c6de132-a082-42c0-a0d1-a1b51a5399da" />
+#### OUTPUT:<img width="1503" height="846" alt="{8DA0FE3F-2B92-4A51-BFAE-EB86CB10CEE8}" src="https://github.com/user-attachments/assets/8c6de132-a082-42c0-a0d1-a1b51a5399da" />
 
 RESULT:
 The program for designing book back cover page using HTML and CSS is completed successfully.
